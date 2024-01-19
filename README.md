@@ -1,4 +1,4 @@
-# banking_loan_project
+# banking loan project
 This project aims to determinate de relation among number of children, family status and type of income regarding the debt of customers keep in a bank.
 
 Data description:
@@ -14,3 +14,5 @@ Data description:
 - debt: customer's default
 - total_income: customer's total income per month
 - purpose: reason why customer requests the loan
+
+- Note: This dataset allows to Tripleten.
