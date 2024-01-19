@@ -1,4 +1,4 @@
-# banking loan project
+# Banking loan project
 This project aims to determinate de relation among number of children, family status and type of income regarding the debt of customers keep in a bank.
 
 Data description:
