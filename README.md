@@ -15,4 +15,4 @@ Data description:
 - total_income: customer's total income per month
 - purpose: reason why customer requests the loan
 
-- Note: This dataset allows to Tripleten.
+- Note: This dataset belongs to Tripleten.
